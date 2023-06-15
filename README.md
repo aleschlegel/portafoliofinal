@@ -96,3 +96,4 @@
 #### Negativo: Gráfica muy estructurada, no hay dinamismo.
 
 ## ¿Qué existe que puede inspirar la propuesta?
+![Moodboard](https://github.com/aleschlegel/portafoliofinal/assets/91894977/47f23d3e-5d00-47cb-9c3b-7234c5c4731f)
